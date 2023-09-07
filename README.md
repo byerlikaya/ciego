@@ -35,29 +35,19 @@ https://github.com/byerlikaya/ciego/assets/9534517/c77c7ad7-eaf2-4a72-a40a-bc6bd
 
 <b><i>Images related to the project</i></b> 🖼️
 
-![1](https://github.com/byerlikaya/ciego/assets/9534517/29bbdff2-3432-46b7-b777-817fc40ab8d3)
+![1](https://github.com/byerlikaya/ciego/assets/9534517/77661b1d-c71c-4f3a-87b4-4d6ef40ed1c0)
+![2](https://github.com/byerlikaya/ciego/assets/9534517/3177f8da-98ee-4789-b668-88a5f22532d7)
+![3](https://github.com/byerlikaya/ciego/assets/9534517/301b2c6d-fbf0-4d11-a5bd-10d206b0afea)
+![4](https://github.com/byerlikaya/ciego/assets/9534517/5ceabbed-5702-4d2e-a1e0-0d1d487ee0bc)
+![5](https://github.com/byerlikaya/ciego/assets/9534517/492f55cf-47c4-4818-8ed6-2996e50c5d5e)
+![6](https://github.com/byerlikaya/ciego/assets/9534517/55b058b7-4a83-4f06-a20c-a8f66c2e2951)
+![7](https://github.com/byerlikaya/ciego/assets/9534517/45f81ac3-ecbf-4275-aea4-53f1401484a0)
+![8](https://github.com/byerlikaya/ciego/assets/9534517/45b99ad8-d1a7-42bf-ae4d-262b30265627)
+![9](https://github.com/byerlikaya/ciego/assets/9534517/75a891ee-ce77-4c24-b0fc-2a4d4363467f)
+![10](https://github.com/byerlikaya/ciego/assets/9534517/9a010ee9-dfea-480d-a46f-4403214f4145)
+![11](https://github.com/byerlikaya/ciego/assets/9534517/9c75a4ed-ca49-439f-b659-19fe0d6a882a)
+![12](https://github.com/byerlikaya/ciego/assets/9534517/fc36f95e-d31d-402c-945c-2340a0805656)
 
-![2](https://github.com/byerlikaya/ciego/assets/9534517/9892db73-0f48-43ce-ad14-c580f4274181)
-
-![3](https://github.com/byerlikaya/ciego/assets/9534517/421a0e4e-4cbd-4ea7-9005-90f5a3b0f1d7)
-
-![4](https://github.com/byerlikaya/ciego/assets/9534517/d761dfa5-151a-4bc7-bec8-ef91649f67ca)
-
-![5](https://github.com/byerlikaya/ciego/assets/9534517/c8156a84-4016-441b-a68e-b72271db1b0c)
-
-![6](https://github.com/byerlikaya/ciego/assets/9534517/c134b896-3dc8-4c81-9825-1fbcf004cab6)
-
-![7](https://github.com/byerlikaya/ciego/assets/9534517/3e40541b-e655-4043-a2e8-c1f0db891663)
-
-![8](https://github.com/byerlikaya/ciego/assets/9534517/86d72e53-9003-4d1c-9819-8dfa5e29eda8)
-
-![9](https://github.com/byerlikaya/ciego/assets/9534517/ab8cd754-1800-487a-9a75-eb96efdf614a)
-
-![10](https://github.com/byerlikaya/ciego/assets/9534517/9d10b21c-4176-4291-b460-589dfa21e87b)
-
-![11](https://github.com/byerlikaya/ciego/assets/9534517/6b868753-bceb-4348-a50f-19604766fef3)
-
-![12](https://github.com/byerlikaya/ciego/assets/9534517/9930d873-7a11-4a16-99d9-93f99c51eb0b)
 
 
 
