@@ -20,7 +20,8 @@ The project runs on Raspberry Pi and has been developed using Python.
 
 For a better understanding, here is a video of the project. 👇
 
-https://github.com/byerlikaya/ciego/assets/9534517/41e74636-3677-4579-85e5-b9e83f58a55c
+https://github.com/byerlikaya/ciego/assets/9534517/c77c7ad7-eaf2-4a72-a40a-bc6bd9213c8d
+
 
 <b><i>Double-layer circuit design for connection sockets (drawn using KiCad).</i></b>
 
