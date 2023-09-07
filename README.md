@@ -27,17 +27,11 @@ https://github.com/byerlikaya/ciego/assets/9534517/c77c7ad7-eaf2-4a72-a40a-bc6bd
 
 [ciego.pdf](https://github.com/byerlikaya/ciego/files/12550504/ciego.pdf)
 
-
-![1](https://github.com/byerlikaya/ciego/assets/9534517/5c05ee9f-ef4f-4344-b922-22e9c099a65a)
-
-![2](https://github.com/byerlikaya/ciego/assets/9534517/3e8725e9-98dc-407a-818a-601d3b07e94e)
-
-![3](https://github.com/byerlikaya/ciego/assets/9534517/31616012-c3cc-4c38-b4da-596e547c9ce3)
-
-![4](https://github.com/byerlikaya/ciego/assets/9534517/90424a73-e640-4198-8f68-be628e67f638)
-
-![5](https://github.com/byerlikaya/ciego/assets/9534517/2ac96a23-e756-4a7c-bc85-1c3af2fea513)
-
+![1](https://github.com/byerlikaya/ciego/assets/9534517/e9628ba5-acf1-4d4e-a191-3a96b32ad548)
+![2](https://github.com/byerlikaya/ciego/assets/9534517/b779c104-3fc1-47dc-85ad-8bb774340c60)
+![3](https://github.com/byerlikaya/ciego/assets/9534517/4ec79aca-1f82-4442-a59e-a9fda6811ca4)
+![4](https://github.com/byerlikaya/ciego/assets/9534517/4fcac36f-8f4b-4cbc-b909-39e9b64862c5)
+![5](https://github.com/byerlikaya/ciego/assets/9534517/db081c77-cc1d-4a46-bf2f-3ee41a883739)
 
 <b><i>Images related to the project</i></b> 🖼️
 
